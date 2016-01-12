@@ -1,0 +1,72 @@
+div.divNeg{
+    border: solid;
+    border-color: black;
+    margin-left: 30%;
+    margin-right: 30%;
+    height: 730px;
+    }
+div.divRoj{
+    border: solid;
+    border-color: red; 
+    height: 730px;
+}
+header.headerAzu{
+    border: solid;
+    border-color: dodgerblue;
+}
+header.headerAzu{
+    border: solid;
+    border-color: dodgerblue;
+}
+nav.navAzu{
+    border: solid;
+    border-color: dodgerblue;
+    font-family: "arial", sans-serif;
+    font-weight: bold;
+}
+section.secAzu{
+    border: solid;
+    border-color: dodgerblue;
+    margin-right: 30%;
+    position: relative;
+    top: 15px;
+}
+article.artVer{
+    border: solid;
+    border-color: green;
+    position: relative;
+    top: 10px;
+    font-family: "arial", sans-serif;
+}
+div.divAma{
+    border: solid;
+    border-color: yellow;
+    background-color: #CDCDCD;
+    font-family: "arial", sans-serif;
+}
+footer.footerAzu{
+    border: solid;
+    border-color: dodgerblue;
+    margin-right: 30%;
+    width: 99%;
+    position: relative;
+    bottom: 515px;
+    background-color: #CDCDCD;
+    text-align: center;
+    font-family: "arial", sans-serif;
+    font-weight: bold;
+    height: 40px;
+}
+aside.asideAzu{
+    border: solid;
+    border-color: dodgerblue;
+    margin-left: 70.5%;
+    position: relative;
+    bottom: 525px;
+    height: 534px;
+}
+a{
+    position: relative;
+    left: 35px;
+}
+
